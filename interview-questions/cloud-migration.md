@@ -30,6 +30,7 @@ A migration readiness assessment helps evaluate an organization's current enviro
 
 ### 11. How can you minimize downtime during cloud migration?
 You can use strategies like blue-green deployments, canary releases, and traffic shifting to minimize downtime and ensure a smooth migration process.
+
 (What is meant by blue-green deployment?
 A blue/green deployment is a deployment strategy in which you create two separate, but identical environments. One environment (blue) is running the current application version and one environment (green) is running the new application version.)
 
